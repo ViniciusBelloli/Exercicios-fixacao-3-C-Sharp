@@ -1,0 +1,12 @@
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\bin\Debug\netcoreapp3.1\Uri1114.exe
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\bin\Debug\netcoreapp3.1\Uri1114.deps.json
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\bin\Debug\netcoreapp3.1\Uri1114.runtimeconfig.json
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\bin\Debug\netcoreapp3.1\Uri1114.runtimeconfig.dev.json
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\bin\Debug\netcoreapp3.1\Uri1114.dll
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\bin\Debug\netcoreapp3.1\Uri1114.pdb
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\obj\Debug\netcoreapp3.1\Uri1114.AssemblyInfoInputs.cache
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\obj\Debug\netcoreapp3.1\Uri1114.AssemblyInfo.cs
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\obj\Debug\netcoreapp3.1\Uri1114.csproj.CoreCompileInputs.cache
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\obj\Debug\netcoreapp3.1\Uri1114.dll
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\obj\Debug\netcoreapp3.1\Uri1114.pdb
+C:\Users\Estudos\source\repos\Exercicios3\Exercicios3\obj\Debug\netcoreapp3.1\Uri1114.genruntimeconfig.cache
